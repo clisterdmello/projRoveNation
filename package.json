@@ -1,0 +1,23 @@
+{
+  "name": "rovenation",
+  "version": "1.0.0",
+  "description": "rovenation",
+  "main": "main.js",
+  "scripts": {
+    "serve": "lite-server",
+    "install": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clisterdmello/rovenation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clisterdmello/rovenation/issues"
+  },
+  "homepage": "https://github.com/clisterdmello/rovenation#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
